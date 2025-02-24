@@ -2,6 +2,10 @@
 
 ## What is BOOTS?
 
+- [A textbook](https://boots-edu.github.io/textbook/)
+- [A framework](https://boots-edu.github.io/Webz/)
+- And so much more!
+
 **BOOTS (Beginner Object-Oriented TypeScript)** is an open-source curriculum designed to teach **Object-Oriented Programming (OOP)** and modern software development concepts in a second-semester Computer Science course (CS2). BOOTS integrates **TypeScript** and **web development** to provide students with practical, industry-relevant skills.
 
 Traditionally, CS2 courses focus on OOP with languages like Java. BOOTS reimagines CS2 by leveraging **TypeScript**, a statically-typed superset of JavaScript, to introduce OOP concepts while giving students **hands-on web development experience**.
@@ -67,7 +71,7 @@ BOOTS is fully open-source and free to use! Get started with these resources:
 
 BOOTS is built to be **collaborative and adaptable**. If you're an instructor interested in using or contributing to BOOTS, join us!
 
-✉️ **Get in touch:** [acbart@udel.edu](https://acbart.com/)
+✉️ **Get in touch:** [https://github.com/orgs/boots-edu/discussions](https://github.com/orgs/boots-edu/discussions)
 
 👩‍🏫 **Contribute to the curriculum:** We welcome feedback, additional teaching materials, and new exercises.
 
@@ -75,7 +79,7 @@ BOOTS is built to be **collaborative and adaptable**. If you're an instructor in
 
 The Boots project is the work of several key individuals:
 - Greg Silber
-- Austin Cory Bart
+- Austin Cory Bart ([acbart@udel.edu](https://acbart.com/))
 - James Clause
 - Faith Lovell
 
