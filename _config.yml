@@ -1,3 +1,7 @@
 remote_theme: pages-themes/time-machine@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+title: Boots
+description: BOOTS (Beginner Object-Oriented TypeScript) is an open-source curriculum designed to teach Object-Oriented Programming (OOP) and modern software development concepts in a second-semester Computer Science course (CS2). BOOTS integrates TypeScript and web development to provide students with practical, industry-relevant skills.
+
